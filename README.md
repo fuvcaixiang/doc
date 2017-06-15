@@ -1,7 +1,3 @@
-1. James Madison
-1. James Monroe
-1. John Quincy Adams
-
 1. Make my changes
   1. Fix bug
   2. Improve formatting
